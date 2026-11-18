@@ -1,0 +1,10 @@
+{
+  "description": "Help PLM students, staff, and visitors find lost belongings, report found items, verify ownership, and coordinate secure returns through messaging.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
